@@ -1,4 +1,7 @@
 ---
 layout: page
 title: "Writing Samples"
-permalink: /writing/
+permalink: /pages/writing/
+---
+
+
