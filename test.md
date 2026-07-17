@@ -1,6 +1,7 @@
 ---
 layout: default
 title: testing page
+author: d
 permalink: /test/
 ---
 
