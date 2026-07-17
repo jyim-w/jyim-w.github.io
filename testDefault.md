@@ -1,8 +1,7 @@
 ---
 layout: default
-title: testing page
-author: d
-permalink: /test/
+title: testing default
+permalink: /testDefault/
 ---
 
 *attempting to understand default layout options*
