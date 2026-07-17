@@ -1,8 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: testing title location
-description: testing description location
-
-mainfont: "Times New Roman"
+title: J. Yim
+description: Skilled written and verbal communicator across varied audiences and environments of diverse age, cultural, and technical backgrounds.
 
 plugins:
   - jekyll-remote-theme
