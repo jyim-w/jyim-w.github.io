@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Writing Samples
-permalink: /writing/
+permalink: /pages/writing/
 ---
 
 1. a
