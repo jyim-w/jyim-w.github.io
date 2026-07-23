@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technical Writing
-permalink: /writes/technical/
+permalink: "/writes/technical/"
 ---
 
 # Technical Writing
