@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technical Writing
-permalink: "/writes/technical/"
+permalink: https://jacklineyim.github.io/writes/technical/
 ---
 
 # Technical Writing
